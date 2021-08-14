@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="kolkata_knight_riders">#9875E3</color>
+    <color name="delhi_capitals">#5F8DB8</color>
+    <color name="chennai_super_kings">#ECD610</color>
+    <color name="sunrisers_hyderabad">#D07148</color>
+    <color name="mumbai_indians">#2F76A9</color>
+    <color name="punjab_kings">#D23C3C</color>
+    <color name="royal_challengers_bangalore">#C14040</color>
+    <color name="rajasthan_royals">#486DCD</color>
+    <color name="gujarat_lions">#C17E4D</color>
+    <color name="rising_pune_supergiants">#D981D5</color>
+    <color name="pune_warriors">#545454</color>
+    <color name="kochi_tuskers_kerala">#7641E8</color>
+
+    <color name="defeat">#FE7777</color>
+    <color name="victory">#7EC585</color>
+</resources>

@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.IPLDashboard" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#1976d2</item>
+        <item name="colorPrimaryVariant">#004ba0</item>
+        <item name="colorOnPrimary">#ffffff</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#9575cd</item>
+        <item name="colorSecondaryVariant">#65499c</item>
+        <item name="colorOnSecondary">#000000</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:colorBackground">#F9F9F9</item>
+        <item name="colorSurface">#F2F2F2</item>
+        <item name="colorError">#B00020</item>
+    </style>
+</resources>
